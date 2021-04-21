@@ -1,4 +1,4 @@
-console.log("This is my news project");
+console.log("Mohd Askery Malik");
 
 
 let tableBody=document.getElementById('tbody');
